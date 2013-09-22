@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Transportation Iconfonts';
+    src: url('../fonts/transiconshalflings-regular.ttf');
+    src: url('../fonts/transiconshalflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/transiconshalflings-regular.woff') format('woff'), url('../fonts/transiconshalflings-regular.ttf') format('truetype'), url('../fonts/transiconshalflings-regular.svg#transicons_halflingsregular') format('svg')
+}
+
+.transportationicon:before {
+    font-family: 'Transportation Iconfonts';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased
+}
+
+.transportationicon-bus:before {
+    content: "\e001"
+}
+
+.transportationicon-ferry:before {
+    content: "\e002"
+}
+
+.transportationicon-helicopter:before {
+    content: "\e003"
+}
+
+.transportationicon-metro:before {
+    content: "\e004"
+}
+
+.transportationicon-monorail:before {
+    content: "\e005"
+}
+
+.transportationicon-plane:before {
+    content: "\e006"
+}
+
+.transportationicon-train:before {
+    content: "\e007"
+}
+
+.transportationicon-tram:before {
+    content: "\e008"
+}
+
+.transportationicon-trolley:before {
+    content: "\e009"
+}
+
+.transportationicon-walk:before {
+    content: "\e010"
+}

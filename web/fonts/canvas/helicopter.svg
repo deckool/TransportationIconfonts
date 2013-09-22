@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1000"
+   height="1000"
+   id="svg5496"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="helicopter.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1058"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.454"
+     inkscape:cx="153.15867"
+     inkscape:cy="472.34092"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg5496"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="605.72687,-26.431718"
+       id="guide5596" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3462" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5498">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 500 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1000 : 500 : 1"
+       inkscape:persp3d-origin="500 : 333.33333 : 1"
+       id="perspective3931" />
+    <font
+       horiz-adv-x="1024"
+       id="font3933"
+       inkscape:label="font 1">
+      <font-face
+         units-per-em="1024"
+         id="font-face3935"
+         font-family="Your Icons" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph3937" />
+    </font>
+  </defs>
+  <g
+     id="g3120">
+    <g
+       id="layer1" />
+    <path
+       id="path3004"
+       d="M 519.25 379.6875 C 388.78378 380.7476 280.39635 436.39456 243.84375 524.5625 C 182.09277 542.84034 53.79595 514.34375 49.46875 571.21875 C 44.915882 631.05984 189.92739 623.46411 242.5 658.5625 C 242.81518 658.77292 243.12303 659.00136 243.4375 659.21875 C 280.53143 758.38915 394.8771 846.19657 540.65625 875.84375 C 733.11416 914.98401 907.45741 837.91271 930.03125 703.71875 C 952.60509 569.52479 814.86416 429.01526 622.40625 389.875 C 589.32755 383.14777 556.79734 379.84947 525.46875 379.6875 C 523.38693 379.67674 521.32089 379.67067 519.25 379.6875 z M 633.03125 467.03125 C 634.85054 467.0613 636.66297 467.24141 638.46875 467.5625 C 717.28249 481.57659 805.93267 556.89078 860.625 615.34375 C 887.35806 643.91497 919.47516 711.40652 894.28125 741.34375 C 842.73782 802.5914 733.18667 841.73654 655.21875 859.875 C 617.10882 868.7409 542.57945 862.78718 529.25 826 C 501.97969 750.73825 522.88066 636.27893 546.15625 559.6875 C 556.99983 524.00525 596.03909 466.42029 633.03125 467.03125 z "
+       style="opacity:0.42477878;fill-rule:evenodd" />
+    <path
+       id="path3012"
+       d="M 112.03125 464.21875 C 51.279928 464.21875 2.03125 513.46743 2.03125 574.21875 C 2.03125 630.13771 43.766474 676.32073 97.78125 683.3125 C 57.964006 663.94842 30.9375 626.14965 30.9375 582.6875 C 30.9375 523.86421 80.447095 475.40847 144.15625 469 C 133.99452 465.90209 123.20635 464.21875 112.03125 464.21875 z "
+       style="opacity:0.42477878;fill-rule:evenodd" />
+    <path
+       id="path3034"
+       d="M 298.15625 264.96875 C 156.09202 264.96875 40.9375 285.92014 40.9375 311.75 C 40.9375 337.57986 156.09202 358.53125 298.15625 358.53125 C 392.9076 358.53125 475.68334 349.21501 520.3125 335.34375 C 564.94712 349.20988 647.72373 358.53125 742.46875 358.53125 C 884.53298 358.53125 999.6875 337.57986 999.6875 311.75 C 999.6875 285.92014 884.53298 264.96875 742.46875 264.96875 C 647.72373 264.96875 564.94712 274.29012 520.3125 288.15625 C 475.68334 274.28499 392.9076 264.96875 298.15625 264.96875 z "
+       style="opacity:0.42477878;fill-rule:evenodd" />
+    <path
+       id="rect3054"
+       d="M 517.53125 199.8125 C 489.83125 199.8125 467.53125 213.1925 467.53125 229.8125 C 467.53125 230.58634 467.59252 231.36623 467.6875 232.125 L 567.375 232.125 C 567.46998 231.36623 567.53125 230.58634 567.53125 229.8125 C 567.53125 213.1925 545.23125 199.8125 517.53125 199.8125 z "
+       style="opacity:0.42477878;fill-rule:evenodd" />
+    <rect
+       inkscape:transform-center-y="15.68279"
+       inkscape:transform-center-x="-14.074903"
+       transform="matrix(0.99658139,0.08261684,-0.08261684,0.99658139,0,0)"
+       ry="106.29921"
+       rx="106.29921"
+       y="857.46704"
+       x="355.98212"
+       height="40"
+       width="530"
+       id="rect3080"
+       style="opacity:0.42477878;fill-rule:evenodd" />
+  </g>
+</svg>

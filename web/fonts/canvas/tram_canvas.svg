@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1000"
+   height="1000"
+   id="svg5496"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="tram_canvas.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1058"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.90799999"
+     inkscape:cx="305.27568"
+     inkscape:cy="991.72727"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg5496"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="605.72687,-26.431718"
+       id="guide5596" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3462" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5498">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 500 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1000 : 500 : 1"
+       inkscape:persp3d-origin="500 : 333.33333 : 1"
+       id="perspective3931" />
+    <font
+       horiz-adv-x="1024"
+       id="font3933"
+       inkscape:label="font 1">
+      <font-face
+         units-per-em="1024"
+         id="font-face3935"
+         font-family="Your Icons" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph3937" />
+    </font>
+  </defs>
+  <g
+     id="layer1" />
+  <rect
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="rect6440"
+     width="880"
+     height="831.4101"
+     x="60"
+     y="134.65996"
+     rx="106.29921"
+     ry="91.44799" />
+  <rect
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="rect6446"
+     width="360"
+     height="110.72961"
+     x="320.38937"
+     y="134.97592"
+     rx="35.433071"
+     ry="32.695751" />
+  <rect
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="rect3000-8"
+     width="317.91879"
+     height="306.47971"
+     x="-35.399101"
+     y="266.39072"
+     rx="38.464066"
+     ry="27.665516"
+     transform="matrix(0.91947358,-0.39315179,0.9209703,0.38963277,0,0)" />
+  <rect
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="rect6450"
+     width="760"
+     height="369.09872"
+     x="120"
+     y="190.02477"
+     rx="124.01575"
+     ry="114.43513" />
+  <path
+     transform="matrix(1,0,0,0.92274678,-4.6670294,116.0107)"
+     sodipodi:type="arc"
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="path6456"
+     sodipodi:cx="210"
+     sodipodi:cy="650"
+     sodipodi:rx="70"
+     sodipodi:ry="70"
+     d="m 280,650 a 70,70 0 1 1 -140,0 70,70 0 1 1 140,0 z" />
+  <path
+     transform="matrix(1,0,0,0.92274678,580.06963,117.91231)"
+     sodipodi:type="arc"
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="path6456-4"
+     sodipodi:cx="210"
+     sodipodi:cy="650"
+     sodipodi:rx="70"
+     sodipodi:ry="70"
+     d="m 280,650 a 70,70 0 1 1 -140,0 70,70 0 1 1 140,0 z" />
+  <rect
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="rect6604"
+     width="239.9639"
+     height="155.23994"
+     x="700.05933"
+     y="869.63428"
+     rx="94.473976"
+     ry="75.128914" />
+  <rect
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="rect6616"
+     width="86.657318"
+     height="149.88881"
+     x="56.283791"
+     y="1195.2955"
+     rx="191.93732"
+     ry="39.306133"
+     transform="matrix(0.69706832,-0.71700472,0.59091566,0.80673334,0,0)" />
+  <rect
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="rect6446-8-8"
+     width="190.28854"
+     height="70.306503"
+     x="406.02155"
+     y="709.67358"
+     rx="29.756445"
+     ry="31.120291" />
+  <rect
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="rect3000"
+     width="281.64682"
+     height="271.21893"
+     x="-2.7259991"
+     y="267.27484"
+     rx="34.075619"
+     ry="24.482571"
+     transform="matrix(0.92233323,-0.38639541,0.92483571,0.38036681,0,0)" />
+  <rect
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="rect3000-1"
+     width="198.7872"
+     height="191.65431"
+     x="37.246056"
+     y="307.54825"
+     rx="24.050678"
+     ry="17.300379"
+     transform="matrix(0.92475388,-0.38056571,0.92616415,0.37712063,0,0)" />
+  <rect
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="rect6446-8-8-7"
+     width="130.52278"
+     height="70.306503"
+     x="709.47882"
+     y="-536.04718"
+     rx="20.410549"
+     ry="31.120291"
+     transform="matrix(0,1,-1,0,0,0)" />
+  <rect
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="rect6604-4"
+     width="239.9639"
+     height="155.23994"
+     x="62.472919"
+     y="871.40326"
+     rx="94.473976"
+     ry="75.128914" />
+  <rect
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="rect6616-0"
+     width="91.428139"
+     height="150.0453"
+     x="-847.13361"
+     y="-483.33978"
+     rx="202.50418"
+     ry="39.347172"
+     transform="matrix(-0.57604148,-0.81742046,0.68309822,-0.73032651,0,0)" />
+  <rect
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="rect3064-9"
+     width="116.79223"
+     height="39.003273"
+     x="134.38271"
+     y="879.9231" />
+  <rect
+     style="opacity:0.48620689;fill-rule:evenodd"
+     id="rect3064-9-4"
+     width="116.79223"
+     height="39.003273"
+     x="758.38269"
+     y="879.9231" />
+</svg>

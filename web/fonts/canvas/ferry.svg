@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1000"
+   height="1000"
+   id="svg5496"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="ferry.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1058"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.454"
+     inkscape:cx="-91.473376"
+     inkscape:cy="688.15263"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg5496"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="605.72687,-26.431718"
+       id="guide5596" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3462" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5498">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 500 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1000 : 500 : 1"
+       inkscape:persp3d-origin="500 : 333.33333 : 1"
+       id="perspective3931" />
+    <font
+       horiz-adv-x="1024"
+       id="font3933"
+       inkscape:label="font 1">
+      <font-face
+         units-per-em="1024"
+         id="font-face3935"
+         font-family="Your Icons" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph3937" />
+    </font>
+  </defs>
+  <g
+     id="g3157">
+    <path
+       id="rect3044"
+       d="M 464.78125 70 C 456.60014 70 450 76.082558 450 83.65625 L 450 150 L 204.78125 150 C 196.60014 150 190 156.08256 190 163.65625 L 190 241 L 840 241 L 840 163.65625 C 840 156.08256 833.39986 150 825.21875 150 L 610 150 L 610 83.65625 C 610 76.082558 603.39986 70 595.21875 70 L 464.78125 70 z M 190 327.125 L 190 516.34375 C 190 517.97154 190.31507 519.52431 190.875 520.96875 L 516.5625 431.96875 C 524.32379 429.84758 536.37745 429.72382 543.5625 431.6875 L 840 512.6875 L 840 327.125 L 190 327.125 z "
+       style="opacity:0.42477878;fill-rule:evenodd" />
+    <g
+       id="layer1" />
+    <path
+       style="opacity:0.42477878;fill-rule:evenodd"
+       d="M 529.0625 482.375 C 524.18606 482.42638 519.22439 483.00192 515.34375 484.0625 L 95.0625 598.90625 C 93.828756 599.24343 92.801042 599.61383 91.9375 600 L 91.6875 600 C 91.663705 600.05143 91.648344 600.10469 91.625 600.15625 C 88.628876 601.58659 88.130233 603.2272 90.1875 604.65625 C 89.037108 610.53992 90.58519 616.64769 94.9375 621 L 495.1875 1021.25 C 502.41829 1028.4808 514.53305 1028.0293 522.34375 1020.2188 L 942.53125 600 L 938.46875 600 L 939.03125 599.84375 C 946.79254 597.72258 947.24755 594.43243 940.0625 592.46875 L 542.34375 483.75 C 538.75123 482.76816 533.93894 482.32362 529.0625 482.375 z M 523.75 524.84375 C 533.02982 524.84375 585.21146 540.04568 594.3125 545 L 594.65625 545 C 594.6614 545.06776 594.65098 545.1211 594.65625 545.1875 C 595.30622 545.57195 595.6875 545.89879 595.6875 546.125 C 595.6875 546.34133 595.34632 546.6384 594.75 547 C 594.10539 573.37609 533.62818 724.5 523.625 724.5 C 513.60267 724.5 452.91592 572.79064 452.5 546.84375 C 452.04514 546.54465 451.8125 546.31307 451.8125 546.125 C 451.8125 545.93013 452.07522 545.65751 452.5625 545.34375 C 452.57211 545.22343 452.58425 545.12491 452.59375 545 L 453.1875 545 C 462.28854 540.04568 514.47018 524.84375 523.75 524.84375 z "
+       id="rect3002" />
+  </g>
+</svg>
