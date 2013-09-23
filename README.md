@@ -1,6 +1,6 @@
 #Transportation Iconfonts#
 
-See the [gh-pages](http://harmia.github.io/TransportationIconfonts/) for a full example!
+See the [gh-pages](http://harmia.github.io/TransportationIconfonts/web/) for a full example!
 
 ##Transportation Icons as Fonts##
 
